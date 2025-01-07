@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Change in main branch
+=======
+Change in new branch
+>>>>>>> 8aa77f8 (Change in new branch)
